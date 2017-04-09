@@ -1,0 +1,3 @@
+shopping\service\price\PriceReaderServiceTest.class
+shopping\service\checkout\PriceBasketTest.class
+shopping\service\basket\ShoppingBasketCalculatorTest.class

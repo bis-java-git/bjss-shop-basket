@@ -1,0 +1,5 @@
+Name,Price,Discount Rule Alternate Product Quantity
+Bread,0.80
+Milk,1.30
+Apples, 1.0, 10
+Soup, 0.65, 50, 1, Bread, 2

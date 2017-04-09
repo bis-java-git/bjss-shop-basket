@@ -1,0 +1,8 @@
+shopping\service\price\PriceReaderService.class
+shopping\service\basket\ShoppingBasketCalculator.class
+shopping\service\checkout\PriceBasket.class
+shopping\service\basket\ShoppingBasketCalculatorImpl.class
+shopping\service\price\PriceReaderServiceImpl.class
+shopping\domain\Item.class
+shopping\Application.class
+shopping\service\checkout\PriceBasketImpl.class
